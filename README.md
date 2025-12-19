@@ -27,11 +27,17 @@ An0m0s VPN Manager is a modern, secure GUI application for managing OpenVPN conn
 
 ## 🖼️ Screenshots
 
-The application features:
-- Clean connection status dashboard with IP/location info
-- Configuration management panel
-- Security controls with visual killswitch toggle
-- Real-time connection status indicators
+<div align="center">
+  <img src="images/screenshot-main.png" alt="An0m0s VPN Manager Interface" width="800">
+  <p><em>An0m0s VPN Manager - Premium Dark Theme Interface</em></p>
+</div>
+
+### Key Interface Features:
+- **Connection Dashboard** - Real-time IP address and location tracking
+- **OpenVPN Profile Manager** - Easy .ovpn file configuration
+- **Killswitch Toggle** - Visual security control with one-click activation
+- **Control Panel** - Start VPN, Force Stop, Status Check, and Network Restore
+- **Responsive Design** - Clean, modern dark theme optimized for all screen sizes
 
 ## 📦 Requirements
 

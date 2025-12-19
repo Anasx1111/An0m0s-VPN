@@ -28,7 +28,7 @@ An0m0s VPN Manager is a modern, secure GUI application for managing OpenVPN conn
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="images/screenshot-main.png" alt="An0m0s VPN Manager Interface" width="800">
+  <img src="images/screenshot-main.png?raw=true" alt="An0m0s VPN Manager Interface" width="800">
   <p><em>An0m0s VPN Manager - Premium Dark Theme Interface</em></p>
 </div>
 
